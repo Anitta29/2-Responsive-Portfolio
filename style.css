@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    font-family: 'Arizonia', cursive;
+    color: black;
+    text-align: center;
+    background-image: url(brownbackg.jpg);
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 76px;
+    background-image: url(brownbackg.jpg);
+    margin-bottom: 0px;
+}
+.header div {
+text-align: center;
+font-family: 'Montez', cursive;
+    font-size: 20px;
+    background-image: url(brownsilk.jpg);
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 60px;
+    text-align: center;
+   
+}
+
+a {
+    color: saddlebrown;
+    text-decoration: none;
+}
+a:hover {
+    color: sienna;
+  }
+
+body {
+    background-image: url(brownbackg.jpg);
+    color: black;
+    
+}
+
+.cbody {
+    background-image: url(palmcontact.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    width: 100vw;
+   
+}
+.pbody {
+    text-align: center;
+}
+
+.card {
+    border: 30px black;
+    background-image: url(brownbackg.jpg);
+    font-family: 'Arizonia', cursive;
+    font-size: 50px;
+    text-align: center;
+    padding: 0;
+}
+
+.img-background {
+    background-image: url(goldenleaves.jpg);
+    padding: 5em;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+
+} 
+
+img {
+    border: 20px black;
+}
+
+
+h2 {
+    font-family: 'Arizonia', cursive;
+    font-size: 50px;
+    color: black;
+}
+.fa {
+    padding: 20px;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: none;
+   
+  }  
+
+.fa-github {
+    background: teal;
+    color: saddlebrown;
+    margin: 120px 80px;
+    
+    padding: 60px;
+    
+  }
+  .fa-instagram {
+    background: teal;
+    color: saddlebrown;
+    margin: 120px 80px;
+    padding: 60px;
+    
+  }
+  .fa-envelope-o {
+      color: saddlebrown;
+      background: teal;
+      float: left;
+      margin: 120px 80px;
+    padding: 60px;
+  }
+  .col-md-4 {
+    display: inline-block;
+    padding: 20px;
+  }
+
+.footer {
+    background-image: url(brownsilk.jpg);
+    width: 100%;
+    padding: 5px;
+    clear: both;
+    margin-top: 100px;
+font-size: small;
+background-size: auto;
+height: 40px;
+}
