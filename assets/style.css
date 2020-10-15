@@ -7,20 +7,20 @@
     font-family: 'Arizonia', cursive;
     color: black;
     text-align: center;
-    background-image: url(brownbackg.jpg);
+    background-image: url(./images/brownbackg.jpg);
 }
 
 .header h1 {
     text-align: center;
     font-size: 76px;
-    background-image: url(brownbackg.jpg);
+    background-image: url(./images/brownbackg.jpg);
     margin-bottom: 0px;
 }
 .header div {
 text-align: center;
 font-family: 'Montez', cursive;
     font-size: 20px;
-    background-image: url(brownsilk.jpg);
+    background-image: url(./images/brownsilk.jpg);
 }
 
 .header div ul li {
@@ -39,13 +39,13 @@ a:hover {
   }
 
 body {
-    background-image: url(brownbackg.jpg);
+    background-image: url(./images/brownbackg.jpg);
     color: black;
     
 }
 
 .cbody {
-    background-image: url(palmcontact.jpg);
+    background-image: url(./images/palmcontact.jpg);
     background-size: cover;
     min-height: 100vh;
     width: 100vw;
@@ -57,7 +57,7 @@ body {
 
 .card {
     border: 30px black;
-    background-image: url(brownbackg.jpg);
+    background-image: url(./images/brownbackg.jpg);
     font-family: 'Arizonia', cursive;
     font-size: 50px;
     text-align: center;
@@ -65,7 +65,7 @@ body {
 }
 
 .img-background {
-    background-image: url(goldenleaves.jpg);
+    background-image: url(./images/goldenleaves.jpg);
     padding: 5em;
    background-repeat: no-repeat;
    background-position: center;
@@ -119,7 +119,7 @@ h2 {
   }
 
 .footer {
-    background-image: url(brownsilk.jpg);
+    background-image: url(./images/brownsilk.jpg);
     width: 100%;
     padding: 5px;
     clear: both;
