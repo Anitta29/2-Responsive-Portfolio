@@ -4,16 +4,26 @@
 
 This project is called Responsive Portfolio as it represent our personal profile with all responsive pages and links. 
 
+# Technologies used:
+- HTML;
+- CSS;
+- Bootstrap.
 
 
-# Contribution
-This task helps a programmer to use and develop his/hers skills and learn how to use Bootstrap, layouts and grid system. 
+# Description
+This task helps a programmer to use and develop his/hers skills and learn how to use Bootstrap, layouts and grid system. Portfolio consists of 3 linked pages: Main(About), Contacts and Portfolio. 
+
 
 
 
 # Requirements
-Project contains HTML and CSS pages, with all responsive links and images, Bootstrap components.
+- All linked pages and images should work;
+- Usage of Bootstrap;
+- Structured with basic HTML and styled with CSS.
 
+
+# Link
+https://anitta29.github.io/2-Responsive-Portfolio/
 
 
 
