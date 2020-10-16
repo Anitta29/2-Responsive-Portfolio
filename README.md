@@ -22,6 +22,10 @@ This task helps a programmer to use and develop his/hers skills and learn how to
 - Structured with basic HTML and styled with CSS.
 
 
+# Appearance
+<img width="1440" alt="Screen Shot 2020-10-15 at 9 37 56 PM" src="https://user-images.githubusercontent.com/67982161/96203380-bf29cf80-0f2f-11eb-84e4-2276226af066.png">
+
+
 # Link
 https://anitta29.github.io/2-Responsive-Portfolio/
 
